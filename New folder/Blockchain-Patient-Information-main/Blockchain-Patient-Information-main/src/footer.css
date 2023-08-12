@@ -1,0 +1,140 @@
+.single-logo-item img {
+    max-width: 180px;
+    margin: 0 auto;
+  }
+  
+  .logo-carousel-section {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+  }
+  
+  .footer-area {
+    background-color: #051922;
+    color: #fff;
+    padding: 150px 0;
+  }
+  
+  h2.widget-title {
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+    padding-bottom: 20px;
+    color: #fff;
+  }
+  
+  h2.widget-title:after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 20px;
+    height: 2px;
+    background-color: #F28123;
+    content: "";
+  }
+  
+  .footer-box p {
+    color: #fff;
+    opacity: 0.7;
+    line-height: 1.8;
+  }
+  
+  .footer-box ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .footer-box ul li {
+    opacity: 0.7;
+    margin-bottom: 10px;
+    line-height: 1.8;
+  }
+  
+  .footer-box ul li:last-child {
+    margin-bottom: 0;
+  }
+  
+  .footer-box.subscribe form input[type=email] {
+    border: none;
+    background-color: #012738;
+    width: 78%;
+    padding: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: #fff;
+  }
+  
+  .footer-box.subscribe form button {
+    width: 20%;
+    border: none;
+    background-color: #012738;
+    color: #F28123;
+    padding: 14px 0;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .footer-box.subscribe form button:focus {
+    outline: none;
+  }
+  
+  .copyright {
+    background-color: #051922;
+    border-top: 1px solid #232a35;
+  }
+  
+  .copyright p {
+    margin: 0;
+    color: #fff;
+    opacity: 0.7;
+    padding: 16px 0;
+    font-size: 15px;
+  }
+  
+  .copyright a {
+    color: #F28123;
+    font-weight: 700;
+  }
+  
+  .copyright a:hover {
+    color: #f59d53;
+  }
+  
+  .social-icons ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .social-icons ul li {
+    display: inline-block;
+  }
+  
+  .social-icons ul li a {
+    font-size: 16px;
+    color: #fff;
+    opacity: 0.7;
+    padding: 16px 10px;
+    display: block;
+  }
+  
+  .footer-box ul li a {
+    color: #fff;
+  }
+  
+  .footer-box.pages ul li {
+    position: relative;
+    padding-left: 20px;
+  }
+  
+  .footer-box.pages ul li:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: #F28123;
+  }
+  
